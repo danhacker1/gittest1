@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         public Hello()
         {
-        //    throw new Exception("Exception Message!!"); 
+            throw new Exception("Exception Message!!"); 
         }
         public string SayHello()
         {
